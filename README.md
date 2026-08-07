@@ -30,6 +30,17 @@ The private application combines a Next.js interface, an Express API, a MySQL re
 
 ---
 
+## Preview
+
+<img width="1180" height="722" alt="Inicio" src="https://github.com/user-attachments/assets/24dffaea-64e2-49df-990a-63986776b017" />
+<img width="1180" height="2212" alt="Registro Apoyo y Staff" src="https://github.com/user-attachments/assets/6385da4f-f13d-4553-acae-2a9a2ab5a63b" />
+<img width="1180" height="2452" alt="Registro Participante" src="https://github.com/user-attachments/assets/a6915626-f135-4610-97e7-ea00d5f0fabc" />
+<img width="1180" height="722" alt="Base" src="https://github.com/user-attachments/assets/f1f56f7b-8e0e-4e6f-8de2-4168cfc0273a" />
+<img width="1180" height="722" alt="Menu" src="https://github.com/user-attachments/assets/a61b2699-e0dc-44d9-8221-038f6448b5ce" />
+<img width="1180" height="722" alt="Gestión de Participantes" src="https://github.com/user-attachments/assets/59b6c3f8-26c7-47cb-a043-8855299d1841" />
+
+---
+
 ## Source Code Access
 
 <p align="center">
